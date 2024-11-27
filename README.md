@@ -70,13 +70,13 @@ Some of the insights provided in the Power BI report:
 - **Pran Pratishtha Ceremony**: Scheduled for January 22, 2024.
 
 ## Datasets
-[Architecture.csv](https://github.com/Vishal3550/AyodhyaRamTemple-Power-bi_Dashboard/blob/main/Architecture.csv)
-[ConstructionPhase.csv](https://github.com/Vishal3550/AyodhyaRamTemple-Power-bi_Dashboard/blob/main/ConstructionPhase.csv)
-[Deity.csv](https://github.com/Vishal3550/AyodhyaRamTemple-Power-bi_Dashboard/blob/main/Deity.csv)
-[Donations.csv](https://github.com/Vishal3550/AyodhyaRamTemple-Power-bi_Dashboard/blob/main/Donations.csv)
-[Events.csv](https://github.com/Vishal3550/AyodhyaRamTemple-Power-bi_Dashboard/blob/main/Events.csv)
-[Temple.csv](https://github.com/Vishal3550/AyodhyaRamTemple-Power-bi_Dashboard/blob/main/Temple.csv)
-[TempleEvents.csv](https://github.com/Vishal3550/AyodhyaRamTemple-Power-bi_Dashboard/blob/main/TempleEvents.csv)
+- [Architecture.csv](https://github.com/Vishal3550/AyodhyaRamTemple-Power-bi_Dashboard/blob/main/Architecture.csv)
+- [ConstructionPhase.csv](https://github.com/Vishal3550/AyodhyaRamTemple-Power-bi_Dashboard/blob/main/ConstructionPhase.csv)
+- [Deity.csv](https://github.com/Vishal3550/AyodhyaRamTemple-Power-bi_Dashboard/blob/main/Deity.csv)
+- [Donations.csv](https://github.com/Vishal3550/AyodhyaRamTemple-Power-bi_Dashboard/blob/main/Donations.csv)
+- [Events.csv](https://github.com/Vishal3550/AyodhyaRamTemple-Power-bi_Dashboard/blob/main/Events.csv)
+- [Temple.csv](https://github.com/Vishal3550/AyodhyaRamTemple-Power-bi_Dashboard/blob/main/Temple.csv)
+- [TempleEvents.csv](https://github.com/Vishal3550/AyodhyaRamTemple-Power-bi_Dashboard/blob/main/TempleEvents.csv)
 
 ## Live Working
 [NovyPro](https://www.novypro.com/profile_projects/vishalkumar-2?Popup=memberProject&Data=1706272288929x570843738934197200)
